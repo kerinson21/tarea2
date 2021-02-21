@@ -1,0 +1,8 @@
+D:\Universidad\Programacion III\matriz\matriz\matriz\bin\Debug\matriz.exe.config
+D:\Universidad\Programacion III\matriz\matriz\matriz\bin\Debug\matriz.exe
+D:\Universidad\Programacion III\matriz\matriz\matriz\bin\Debug\matriz.pdb
+D:\Universidad\Programacion III\matriz\matriz\matriz\obj\Debug\matriz.csprojAssemblyReference.cache
+D:\Universidad\Programacion III\matriz\matriz\matriz\obj\Debug\matriz.csproj.ResolveComReference.cache
+D:\Universidad\Programacion III\matriz\matriz\matriz\obj\Debug\matriz.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion III\matriz\matriz\matriz\obj\Debug\matriz.exe
+D:\Universidad\Programacion III\matriz\matriz\matriz\obj\Debug\matriz.pdb
