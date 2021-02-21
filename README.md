@@ -1,2 +1,2 @@
 # tarea2
-Trabajando con matriz
+Trabajando con matrices umg
